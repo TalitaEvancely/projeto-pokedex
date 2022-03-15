@@ -29,7 +29,7 @@ querySelectorALL busca todos os elementos
     const pokemonAtivoNaListagem = document.querySelector('.ativo')
     pokemonAtivoNaListagem.classList.remove('ativo')
 
-// 4 - Adionar a classe ativo no item selecionado.
+
  const pokemonSelecionadoNaListagem = document.getElementById(idPokemonSelecionado)
  pokemonSelecionadoNaListagem.classList.add('ativo')
      })
