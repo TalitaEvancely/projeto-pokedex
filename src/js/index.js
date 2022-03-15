@@ -14,8 +14,7 @@ querySelectorALL busca todos os elementos
  const pokemonsCard = document.querySelectorAll('.cartao-pokemon')
 
  listaSelecaoPokemons.forEach(pokemon => {
-     //Vamos precisar trabalhar com um evento de clique feito pelo usuário na listagem pokémon.
-  
+    
      pokemon.addEventListener('click',() => {
    
      const cartaoPokemonAberto = document.querySelector('.aberto')
