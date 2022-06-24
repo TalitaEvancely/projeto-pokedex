@@ -1,4 +1,4 @@
-# projeto-pokedex
+# Projeto Pokedex
 Esse é projeto que eu fiz no evento mapadev-week.
 
 # HTML
@@ -18,6 +18,8 @@ Para isso, foi feito os seguintes passos:
 - Ao clicar em um pokémon da listagem pegamos o id dele para saber qual cartão mostrar.
 - Remover a classe 'ativo' que marca o pokémon selecionado.
 - Adionar a classe ativo no item selecionado.
+#
+Deploy: https://talitaevancely.github.io/projeto-pokedex/
 
 
  
