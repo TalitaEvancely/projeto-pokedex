@@ -52,4 +52,11 @@
   .listagem .pokemon span{
       padding-right: 5px;
         }
+ .cartao-pokemon .cartao-imagem{
+width: 250px;
+height: 250px;
+}
+.cartao-pokemon img{
+max-height: 100%;
+}
 }
